@@ -1,3 +1,6 @@
+## Unreleased
+* run chef-solo in a fresh env
+
 ## 1.0.7.dev / 2013-07-10
 * Replace the fully-blown test-kitchen with a simpler serverspec setup
 * Randomise Vagrant IP address in the template
